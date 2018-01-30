@@ -50,9 +50,9 @@ def dennis_ritchies_language
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchies => {
+        :dennis_ritchie => {
           :known_for => "Unix",
-          :language => ["C"]
+          :languages => ["C"]
         }
      }
 end
